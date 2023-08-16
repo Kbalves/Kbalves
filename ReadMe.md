@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Kaio Here </h1>
-<h3 align="center">A always leaner in full stack developement from USA</h3>
+<h3 align="center">A always learner in full stack developement from USA</h3>
 
 -  I’m looking for a job **Full Stack Development**
 
