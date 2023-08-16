@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name it's Kaio Alves</h1>
+<h1 align="center">Hi 👋, My name is Kaio Alves</h1>
 <h3 align="center">A always leaner in full stack developement from USA</h3>
 
 -  I’m looking for a job **Full Stack Development**
